@@ -14,8 +14,6 @@
 5. [How to Play](#how-to-play)
 6. [Code Explanation](#code-explanation)
 7. [Future Enhancements](#future-enhancements)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Project Overview
 **Jungle Rescue Arcade Game** challenges players to navigate a jeep through a jungle landscape to rescue animals while avoiding obstacles. The player’s goal is to score as high as possible by rescuing animals and avoiding hazards. This project was developed using Microsoft MakeCode Arcade and Python, inspired by the simplicity and appeal of the Google Chrome dinosaur game.
@@ -43,4 +41,11 @@ To set up and run this project:
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/jungle-rescue-arcade-game.git
+
+## How to Play
+1. **Start Game**: Press the up or down arrow key to begin. The jeep will appear, and the background will switch to the jungle setting.
+2. **Navigate**: Use the arrow keys to move the jeep up and down. Stay within the screen boundaries and avoid obstacles.
+3. **Score Points**: Collide with animals to earn points, increasing your score by 10 points per animal.
+4. **Avoid Obstacles**: Hitting an obstacle ends the game, resets your score, and returns to the intro screen. Rescue as many animals as you can for the highest score!
+
 
